@@ -7,3 +7,8 @@ var firstName = 'Jennie';
 var lastName = 'Kim';
 var fullName = firstName + ' ' + lastName
 console.log(fullName);
+
+var first = 'Al-Amin';
+var last = 'Sarker';
+var fullName = first + ' ' + last;
+console.log(fullName);
